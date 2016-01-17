@@ -1,8 +1,7 @@
 name: 'Paola & Pascal'
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.04941
-title: 'Paola & Pascal - February 7, 2015'
+layout_spectrum: 0.9383769438136369
+typography_spectrum: 0.09196786675602198
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#130f10'
-    - '#d0d4f9'
-    - '#6e5034'
-    - '#ff9d62'
-    - '#9c0a6f'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.125
-  rhythmicContrast: 0.75
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7330041208770126
+  lightness: 0.16587296570651233
+  saturation: 0.019654817413538694
+  rhythmicContrast: 0.1713797610718757
 purpose: []
