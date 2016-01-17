@@ -2,23 +2,16 @@
     <channel>
         <title><![CDATA[Paola & Pascal - February 7, 2015]]></title>
         <description><![CDATA[Paola & Pascal - February 7, 2015]]></description>
-        <link>https://thegrid.ai/paola-and-pascal/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 16:20:27 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/paola-and-pascal/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 17:20:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4057b46-c74a-4164-9481-8725959d478f.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/paola-and-pascal/cebc6375-4cf9-4895-82a7-05d9f6b01554/index.html</link>
-            <guid isPermaLink="false">cebc6375-4cf9-4895-82a7-05d9f6b01554</guid>
-            <pubDate>Sun, 17 Jan 2016 15:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20e3fcbe-013f-4b9c-8c95-2b6ab3d96366.jpg">]]></description>
-            <link>https://thegrid.ai/paola-and-pascal/7d819625-706d-48e4-bc70-a2ed8b062eaf/index.html</link>
-            <guid isPermaLink="false">7d819625-706d-48e4-bc70-a2ed8b062eaf</guid>
-            <pubDate>Sun, 17 Jan 2016 16:15:16 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2321972-3996-42c8-85f3-9271665c3156.jpg">]]></description>
+            <link>undefinedef6eb5e8-3f83-4b32-8e92-3cda291f42f9/index.html</link>
+            <guid isPermaLink="false">ef6eb5e8-3f83-4b32-8e92-3cda291f42f9</guid>
+            <pubDate>Sun, 17 Jan 2016 17:19:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
