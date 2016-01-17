@@ -1,0 +1,28 @@
+name: 'Paola & Pascal'
+favicon: null
+layout_spectrum: 0.9383769438136369
+typography_spectrum: 0.09196786675602198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#ff9c3e'
+    - '#1d140d'
+    - '#894923'
+    - '#fe0214'
+  brandStrength: 0.1875
+  lightness: 0.4375
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
