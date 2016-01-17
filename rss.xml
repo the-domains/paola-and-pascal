@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Paola & Pascal - February 7, 2015]]></title>
         <description><![CDATA[Paola & Pascal - February 7, 2015]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paola-and-pascal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 17:20:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 17:20:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paola-and-pascal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e683c7-b68d-4384-a279-06bac2e986d1.jpg">]]></description>
+            <link>https://thegrid.ai/paola-and-pascal/d1679043-595a-4f5d-a524-d22cae5b29fd/index.html</link>
+            <guid isPermaLink="false">d1679043-595a-4f5d-a524-d22cae5b29fd</guid>
+            <pubDate>Sun, 17 Jan 2016 17:19:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2321972-3996-42c8-85f3-9271665c3156.jpg">]]></description>
-            <link>undefinedef6eb5e8-3f83-4b32-8e92-3cda291f42f9/index.html</link>
+            <link>https://thegrid.ai/paola-and-pascal/ef6eb5e8-3f83-4b32-8e92-3cda291f42f9/index.html</link>
             <guid isPermaLink="false">ef6eb5e8-3f83-4b32-8e92-3cda291f42f9</guid>
             <pubDate>Sun, 17 Jan 2016 17:19:43 GMT</pubDate>
         </item>
