@@ -1,7 +1,7 @@
 name: 'Paola & Pascal'
 favicon: null
-layout_spectrum: 0.9383769438136369
-typography_spectrum: 0.09196786675602198
+layout_spectrum: 1
+typography_spectrum: 0.04941
 cta:
   domain: null
   bucket: null
